@@ -5,9 +5,9 @@ domaine: Autre
 github: maroox
 missions:
   - start: 2022-07-06
-    end: 2024-06-30
+    end: 2024-12-31
     status: independent
-    employer: Malt
+    employer: LBC
     startups:
       - experts
 memberType: beta
